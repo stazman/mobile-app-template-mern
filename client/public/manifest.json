@@ -1,0 +1,8 @@
+{
+  "short_name": "Mobile App Template",
+  "name": "Mobile App Template",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
